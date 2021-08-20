@@ -1,0 +1,42 @@
+/* *, html, body {
+  background-color: rgb(124, 124, 226);
+} */
+
+body {
+  /* background-image: linear-gradient(rgb(124, 124, 226), green); */
+  /* background-repeat: cover; */
+  background-color: peachpuff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  /* margin-top: 10%; */
+  text-align: center;
+  background-color: white;
+  padding: 15px 0 20px;
+  /* width: 350px; */
+  /* display: flex; */
+  /* justify-content: center; */
+}
+
+#title {
+  font-family: 'Rampart One', cursive;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+input {
+  margin: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.fa-plus-square {
+  font-size: 25px;
+}
+
+#pending {
+ font-size: 14px;
+}
+
+/* */
